@@ -2,6 +2,10 @@
 
 Inspired by Visual Studio
 
+#### Setup
+
+* Copy Light.icls to <[IntelliJ IDEA preferences folder](https://www.jetbrains.com/idea/help/project-and-ide-settings.html)>/colors/.
+
 #### Features
 
 * White background
